@@ -6,3 +6,12 @@
     margin-top: 250px;
     margin-left: 50px;
 }
+
+.btn-disabled{
+    cursor: not-allowed;
+    pointer-events: none;
+    background-color: rgb(224, 224, 224);
+    color: rgb(68, 68, 68);
+    font-weight: bold;
+    border: none;
+}
