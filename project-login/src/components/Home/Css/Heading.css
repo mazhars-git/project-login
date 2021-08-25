@@ -3,7 +3,7 @@
 }
 
 .heading-content{
-    margin-top: 250px;
+    margin-top: 60%;
     margin-left: 50px;
 }
 
@@ -14,4 +14,12 @@
     color: rgb(68, 68, 68);
     font-weight: bold;
     border: none;
+}
+.pass-icon{
+    position: relative;
+}
+.eye{
+    position: absolute;
+    margin-left: 28%;
+    margin-top: -43px;
 }
